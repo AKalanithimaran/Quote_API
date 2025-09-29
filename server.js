@@ -25,7 +25,6 @@ initSocket(server);
 // Start the server
 server.listen(PORT, () => {
   console.log(`Server is running on 
-mysql://us7y7q2dqpsunjjh:9RsXkn3P886FvrBiSpTM@bx1hro7vzhrd42deescx-mysql.services.clever-cloud.com:3306/bx1hro7vzhrd42deescx
-`);
+https://app-f07ade1a-3741-4ab8-8393-c232b850346b.cleverapps.io`);
 });
 //http://localhost:${PORT}
